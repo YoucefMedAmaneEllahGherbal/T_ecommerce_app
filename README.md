@@ -1,6 +1,6 @@
 # t_store_app
 
-A new Flutter project.
+A new Flutter project for an ecommerce app (online shop).
 
 ## Getting Started
 
